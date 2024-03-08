@@ -1,0 +1,79 @@
+.text_servicos{
+    font-family: 'Open Sans, sans-serif';
+    font-size: 20px;
+  }
+  .text_div{
+    font-family: 'Poppins';
+    color: white;
+   
+    padding-left: 20px;
+  }
+  .div_solicitar_atend{
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    
+    text-align: center;
+    margin: 40px;
+    align-items: center;
+    border-radius: 20px;
+  }
+  .imagem-div{
+  
+    left: 330px;
+    width:  500px;
+    height: 420px;
+  }
+  
+  .div_informacao{
+    width: 50%;
+    text-align: center;
+  }
+  .div_form{
+    width: 50%;
+    padding-top: 65px;
+  
+   
+    
+  }
+  .div_form input , button{
+     width: 90%;
+     height:30px;
+     margin: 20px;
+     
+     border: 2px solid #c5c8ca ;
+    
+     display: block;
+  }
+  .titulo_form{
+    font-family: 'Poppins';
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(209, 140, 12);
+  }
+  .logo_contato{
+    width: 300px;
+    height: 180px;
+  }
+  .Contato{
+    width: 90%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+  
+   
+    display: flex;
+  
+  }
+  .Dados_contato{
+    display: flex;
+    padding: 5px;
+   text-align: center;
+   align-items: center;
+   margin-left: 160px;
+  }
+  .Dados_contato span{
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 5px;
+  }
